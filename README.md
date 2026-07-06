@@ -3,7 +3,7 @@
 This repository contains my Java learning journey.
 
 ## 📁 Spring Boot
-- Restaurant Management System
+- Restaurant Management System Dashboard
 - Future Spring Boot projects
 
 ## 📁 DSA
